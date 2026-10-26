@@ -1,0 +1,2 @@
+# AIML1_LABMANUAL_HTML
+HTML lab assignment 1
